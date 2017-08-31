@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Lizard()
+comment1.params=c\ t\ n
+comment1.target=Lizard(java.lang.String,\ boolean,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=boolean\ loseTail()
+comment4.params=
+comment4.target=boolean\ growTail()
+comment5.params=c
+comment5.target=void\ setColor(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getColor()
+comment7.params=n
+comment7.target=void\ setName(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getName()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

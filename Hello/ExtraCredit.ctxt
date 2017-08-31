@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ExtraCredit
+comment0.text=\r\n\ This\ is\ for\ Extra\ Credit\r\n\ \r\n\ Garrett\ Benson\r\n\ @very\ September\ 30,\ 2015\r\n
+comment1.params=age\ name\ haircolor
+comment1.target=void\ FortuneTeller(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

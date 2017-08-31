@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=count\ itemPrice\ cost
+comment0.target=double\ getProfit(int,\ double,\ double)
+comment1.params=args
+comment1.target=void\ Main(java.lang.String[])
+comment2.params=thePrice\ salesPercent
+comment2.target=double\ getSalesPrice(double,\ double)
+numComments=3

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dog()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dog\r\n
+comment1.params=c\ n
+comment1.target=Dog(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=n
+comment3.target=void\ setName(java.lang.String)
+comment4.params=c
+comment4.target=void\ setColor(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=java.lang.String\ getColor()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Story
+comment0.text=\r\n\ This\ story\r\n\ \r\n\ @author\ Garrett\ Benson\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=place\ person\ creature\ action
+comment1.target=void\ story(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=args
+comment2.target=void\ Main(java.lang.String[])
+numComments=3

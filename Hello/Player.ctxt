@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Player()
+comment1.params=x
+comment1.target=Player(java.lang.String)
+comment2.params=deck
+comment2.target=void\ giveHand(Deck)
+comment3.params=x
+comment3.target=Card\ checkHand(int)
+comment4.params=
+comment4.target=void\ clHand()
+comment5.params=x
+comment5.target=int\ addPoints(int)
+comment6.params=
+comment6.target=void\ printPoints()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
